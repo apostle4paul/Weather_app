@@ -1,8 +1,8 @@
-##Weather App
+## **Weather App**
 
 is a simple and responsive app built with React and the OpenWeatherMap API, which allows users to search for cities and get current weather information including temperature, humidity, wind speed, and weather conditions with dynamic icons and gradients.
 
-##Features
+## **Features**
 
 .Search for any city to get current weather data.
 
@@ -12,7 +12,7 @@ is a simple and responsive app built with React and the OpenWeatherMap API, whic
 
 .Built using React functional components and Vite.
 
-##Technologies Used
+## **Technologies Used**
 
 **React** – Frontend library for building UI components.
 
