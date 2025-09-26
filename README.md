@@ -5,16 +5,23 @@ is a simple and responsive app built with React and the OpenWeatherMap API, whic
 Features
 
 .Search for any city to get current weather data.
+
 .Displays temperature, humidity, wind speed, and weather description.
+
 .Dynamic weather icons based on the main weather condition (Clear, Clouds, Rain, Snow, etc.).
+
 .Built using React functional components and Vite.
 
 Technologies Used
 
 React – Frontend library for building UI components.
+
 Vite – Development server and build tool.
+
 OpenWeatherMap API – Provides real-time weather data.
+
 JavaScript (ES6+)
+
 CSS / Flexbox – Styling and layout.
 
 Environment Variables – Secure API key storage with .env
